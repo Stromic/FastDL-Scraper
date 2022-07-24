@@ -1,4 +1,4 @@
--- Made with <3 by Stromic ()
+-- Made with <3 by Stromic (76561198387898442)
 
 local addedPrefix = "[FastDL Scraper] Added | "
 local printToConsole = true
