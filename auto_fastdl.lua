@@ -54,5 +54,5 @@ timer.Simple(3, function()
 
     if !FastDLURL or FastDLURL == "" then return end
 
-    addResourceRecursively(GetConVar("sv_downloadurl"):GetString())
+    addResourceRecursively(FastDLURL)
 end)
